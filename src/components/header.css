@@ -1,0 +1,26 @@
+header{
+    background: rgb(216, 216, 216);
+    height: 4em;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 10% 20%;
+}
+
+.gfilm-header-title{
+    font-size: 3em;
+}
+
+.list-options-navigate{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    margin-left: 4%;
+}
+
+.link-pages-header{
+    margin-left: 4%;
+    color: black;
+    text-decoration: none;
+}
