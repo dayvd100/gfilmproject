@@ -2,4 +2,15 @@
     width: 80%;
     margin-left: 10%;
     margin-top: 2em;
+    position: absolute;
+}
+
+.new-product{
+    position: absolute;
+    margin-left: 60%;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    background-color: aquamarine;
+    width: 20%;
 }
